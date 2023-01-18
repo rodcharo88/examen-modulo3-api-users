@@ -1,10 +1,7 @@
-Para realizar el deploy lo hice en render en un servicio web
-Se utilizo nodejs
-los comandos son 
+Este proyecto es un API REST para insertar usuarios (id, nombrecompleto, edad) en una DB en Postgress.
+En el desarrollo se utilizaron JavaScript y NodeJS.
+El deploy de la misma se realizo en Render.
 
-$npm install
+Para la obtencion del GET/Status se creo una tabla en la DB con la informacion correspondiente.
 
-y 
-
-$node main.js
 
