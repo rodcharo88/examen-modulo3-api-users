@@ -4,4 +4,11 @@ El deploy de la misma se realizo en Render.
 
 Para la obtencion del GET/Status se creo una tabla en la DB con la informacion correspondiente.
 
+Para correr el proyecto:
+
+Paso#1
+npm install
+
+Paso#2
+node main.js
 
